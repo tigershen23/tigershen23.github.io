@@ -1171,6 +1171,9 @@ ul#nav li a:hover {
 #short-section .year-of-commits-header {
   color: #fff;
 }
+#short-section .year-of-commits-header small {
+  color: #fff;
+}
 
 /* ------------------------------------------------------------------ */
 /* 9. Contact Section
