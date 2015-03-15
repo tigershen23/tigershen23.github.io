@@ -203,6 +203,10 @@ header .banner-text hr {
   opacity: 0;
 }
 
+header a:hover {
+  text-decoration: none;
+}
+
 /* social links */
 
 #social {
