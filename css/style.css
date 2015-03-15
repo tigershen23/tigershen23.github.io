@@ -6,8 +6,8 @@
    4. About Section
    5. Resume Section
    6. Portfolio Section
-   7. Call To Action Section
-   8. Testimonials Section
+   7. Contributions Section
+   8. Quotes Section
    9. Contact Section
    10. Footer
 
@@ -519,11 +519,7 @@ ul#nav li a:hover {
 }
 
 /* ------------------------------------------------------------------ */
-/* 5. Contributions Section
-/* ------------------------------------------------------------------ */
-
-/* ------------------------------------------------------------------ */
-/* 6. Resume Section
+/* 5. Resume Section
 /* ------------------------------------------------------------------ */
 
 #resume {
@@ -1117,7 +1113,7 @@ ul#nav li a:hover {
 
 
 /* ------------------------------------------------------------------ */
-/* 8. Call To Action Section
+/* 8. Contributions Section
 /* ------------------------------------------------------------------ */
 
 #short-section {
@@ -1176,7 +1172,73 @@ ul#nav li a:hover {
 }
 
 /* ------------------------------------------------------------------ */
-/* 9. Contact Section
+/* 9. Quotes
+/* ------------------------------------------------------------------ */
+
+#quotes {
+   background: #F1F1F1 ;
+   position: relative;
+   min-height: 200px;
+   width: 100%;
+   overflow: hidden;
+}
+#quotes .text-container {
+   padding-top: 10px;
+   padding-bottom: 66px;
+}
+#quotes h1 {
+   color: #95a3a3;
+   margin: 50px auto;
+   width: 420px;
+}
+#quotes h1:hover {
+   border-color: #111;
+}
+#quotes h1 span {
+  display: block;
+}
+
+#quotes .section-title:after {
+  background: #F1F1F1;
+  content: "\f0e6";
+  color: #95A3A3;
+}
+
+
+#quotes .header-col {
+  padding-top: 9px;
+}
+
+/*  Blockquotes */
+#quotes blockquote {
+   margin: 0 0px 30px 0px;
+   padding-left: 0;
+   position: relative;
+}
+#quotes blockquote:before { content: none; }
+#quotes blockquote p {
+   font-family: 'Raleway', sans-serif;
+   font-style: italic;
+   text-align: center;
+   padding: 0;
+   font-size: 16px;
+   line-height: 28px;
+   color: #95a3a3;
+}
+#quotes blockquote cite {
+   display: block;
+   font-size: 12px;
+   text-align: center;
+   font-style: normal;
+   line-height: 18px;
+   color: #95a3a3;
+}
+#quotes blockquote cite:before { content: "\2014 \0020"; }
+#quotes blockquote cite a,
+#quotes blockquote cite a:visited { color: #8B9798; border: none }
+
+/* ------------------------------------------------------------------ */
+/* 8. Contact Section
 /* ------------------------------------------------------------------ */
 
 #contact {
