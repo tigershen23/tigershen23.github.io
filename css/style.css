@@ -1117,122 +1117,60 @@ ul#nav li a:hover {
 
 
 /* ------------------------------------------------------------------ */
-/* 7. Call To Action Section
+/* 8. Call To Action Section
 /* ------------------------------------------------------------------ */
 
-#call-to-action {
+#short-section {
    background: #212121;
    padding-top: 66px;
    padding-bottom: 48px;
 }
-#call-to-action h1 {
+#short-section h1 {
    font: 18px/24px 'opensans-bold', sans-serif;
    text-transform: uppercase;
    letter-spacing: 3px;
    color: #fff;
    text-align: center;
 }
-#call-to-action h1 span {
+#short-section h1 span {
   display: block;
 }
 
-#call-to-action .action {
+#short-section .action {
    margin-top: 12px;
 }
-#call-to-action h2 {
+#short-section h2 {
    font: 28px/36px 'Open Sans', sans-serif;
    font-weight: 700;
    color: #EBEEEE;
    margin-bottom: 6px;
    text-transform: uppercase;
 }
-#call-to-action h2 a {
+#short-section h2 a {
    color: inherit;
 }
-#call-to-action p {
+#short-section p {
    color: #888;
    font-size: 17px;
 }
 
-#call-to-action .button:hover,
-#call-to-action .button:active {
+#short-section .button:hover,
+#short-section .button:active {
    background: #FFFFFF;
    color: #0D0D0D;
 }
-#call-to-action p span {
+#short-section p span {
 	font-family: 'Open Sans', sans-serif;
   font-weight: 700;
 	color: #D8D8D8;
 }
-
-
-/* ------------------------------------------------------------------
-/* 8. Testimonials
-/* ------------------------------------------------------------------ */
-
-#testimonials {
-   background: #F1F1F1 ;
-   position: relative;
-   min-height: 200px;
-   width: 100%;
-   overflow: hidden;
-}
-#testimonials .text-container {
-   padding-top: 10px;
-   padding-bottom: 66px;
-}
-#testimonials h1 {
-   color: #95a3a3;
-   margin: 50px auto;
-   width: 420px;
-}
-#testimonials h1:hover {
-   border-color: #111;
-}
-#testimonials h1 span {
-  display: block;
+#short-section a:hover {
+  color: #ed5565;
 }
 
-#testimonials .section-title:after {
-  background: #F1F1F1;
-  content: "\f0e6";
-  color: #95A3A3;
+#short-section .year-of-commits-header {
+  color: #fff;
 }
-
-
-
-#testimonials .header-col {
-  padding-top: 9px;
-}
-
-/*	Blockquotes */
-#testimonials blockquote {
-   margin: 0 0px 30px 0px;
-   padding-left: 0;
-   position: relative;
-}
-#testimonials blockquote:before { content: none; }
-#testimonials blockquote p {
-   font-family: 'Raleway', sans-serif;
-   font-style: italic;
-   text-align: center;
-   padding: 0;
-   font-size: 16px;
-   line-height: 28px;
-   color: #95a3a3;
-}
-#testimonials blockquote cite {
-   display: block;
-   font-size: 12px;
-   text-align: center;
-   font-style: normal;
-   line-height: 18px;
-   color: #95a3a3;
-}
-#testimonials blockquote cite:before { content: "\2014 \0020"; }
-#testimonials blockquote cite a,
-#testimonials blockquote cite a:visited { color: #8B9798; border: none }
-
 
 /* ------------------------------------------------------------------ */
 /* 9. Contact Section
