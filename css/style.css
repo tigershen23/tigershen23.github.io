@@ -512,6 +512,10 @@ ul#nav li a:hover {
    font-size: 20px;
 }
 
+#about #about-list {
+  list-style: disc;
+  color: #fff;
+}
 
 /* ------------------------------------------------------------------ */
 /* 5. Resume Section
