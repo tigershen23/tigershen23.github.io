@@ -1178,13 +1178,13 @@ ul#nav li a:hover {
 #quotes {
    background: #F1F1F1 ;
    position: relative;
-   min-height: 200px;
+   min-height: 150px;
    width: 100%;
    overflow: hidden;
 }
 #quotes .text-container {
-   padding-top: 10px;
-   padding-bottom: 66px;
+   padding-top: 40px;
+   padding-bottom: 40px;
 }
 #quotes h1 {
    color: #95a3a3;
@@ -1211,7 +1211,7 @@ ul#nav li a:hover {
 
 /*  Blockquotes */
 #quotes blockquote {
-   margin: 0 0px 30px 0px;
+   margin: 0 0px 20px 0px;
    padding-left: 0;
    position: relative;
 }
@@ -1223,7 +1223,8 @@ ul#nav li a:hover {
    padding: 0;
    font-size: 16px;
    line-height: 28px;
-   color: #95a3a3;
+   color: black;
+   margin: 0 0 20px 0;
 }
 #quotes blockquote cite {
    display: block;
@@ -1236,6 +1237,7 @@ ul#nav li a:hover {
 #quotes blockquote cite:before { content: "\2014 \0020"; }
 #quotes blockquote cite a,
 #quotes blockquote cite a:visited { color: #8B9798; border: none }
+#quotes .owl-theme .owl-controls { margin-top: 0; }
 
 /* ------------------------------------------------------------------ */
 /* 8. Contact Section
