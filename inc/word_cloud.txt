@@ -24,3 +24,13 @@ Albany~High
 Parks~and~Rec
 HTML5/CSS3
 Breaking~Bad
+
+
+COLORS
+teal: #11abb0
+red: #ed5565
+blue: #3498db
+orange: #ffbb22
+turquoise: #1abc9c
+purple: 9b59b6
+navy: #34495e
