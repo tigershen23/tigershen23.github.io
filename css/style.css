@@ -759,7 +759,7 @@ ul#nav li a:hover {
 .rails {
   /*background: #1abc9c;*/
   background: #e74c3c;
-  width: 90%;
+  width: 95%;
   	-moz-animation: rails 2s ease;
   	-webkit-animation: rails 2s ease;
 }
@@ -769,12 +769,6 @@ ul#nav li a:hover {
   	width: 60%;
   	-moz-animation: htmlcss 2s ease;
   	-webkit-animation: htmlcss 2s ease;
-}
-.git {
-  background: rgb(255, 187, 34);
-  width: 65%;
-    -moz-animation: git 2s ease;
-    -webkit-animation: git 2s ease;
 }
 .javascript {
   /*background: #34495e;*/
@@ -790,21 +784,26 @@ ul#nav li a:hover {
   	-moz-animation: ruby 2s ease;
   	-webkit-animation: ruby 2s ease;
 }
-.jquery {
+.ember {
+  background: rgb(255, 187, 34);
+  width: 65%;
+    -moz-animation: git 2s ease;
+    -webkit-animation: git 2s ease;
+}
+.react {
+  background: #34495e;
+  width: 70%;
+    -moz-animation: wordpress 2s ease;
+    -webkit-animation: wordpress 2s ease;
+}
+.git {
   background: rgb(0,0,0);
   width: 60%;
     -moz-animation: jquery 2s ease;
     -webkit-animation: jquery 2s ease;
 }
-.wordpress {
-  background: rgb(187, 200, 53);
-  width: 65%;
-    -moz-animation: wordpress 2s ease;
-    -webkit-animation: wordpress 2s ease;
-}
 .postgres {
-  /*background: #d35400;*/
-  background: #34495e;
+  background: rgb(187, 200, 53);
   	width: 55%;
   	-moz-animation: postgres 2s ease;
   	-webkit-animation: postgres 2s ease;
