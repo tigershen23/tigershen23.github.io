@@ -924,7 +924,7 @@ ul#nav li a:hover {
 /* ------------------------------------------------------------------ */
 
 #portfolio {
-   background: url(../images/3.jpg) no-repeat fixed center center / cover;
+   background: url(../images/grand-canyon.jpg) no-repeat fixed bottom center / cover;
    padding-top: 90px;
    padding-bottom: 60px;
 }
