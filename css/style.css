@@ -955,7 +955,7 @@ ul#nav li a:hover {
 
 #portfolio-wrapper .columns { margin-bottom: 36px; }
 .portfolio-item .item-wrap {
-  background: none repeat scroll 0 0 #fff;
+  background: none repeat scroll 0 0 rgba(255, 255, 255, 0.3);
   border: 5px solid #fff;
   box-shadow: 0 0 0 10px rgba(0, 0, 0, 0.2);
   overflow: hidden;
@@ -1017,6 +1017,13 @@ ul#nav li a:hover {
 }
 .portfolio-item .item-wrap img {
    vertical-align: bottom;
+}
+.portfolio-item .item-wrap .portfolio-icon {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
 }
 .portfolio-item .portfolio-item-meta { padding: 18px }
 .portfolio-item .portfolio-item-meta h5 {
