@@ -152,7 +152,7 @@ header .banner {
 header .banner-text { width: 100%; }
 header .banner-text h1 {
    font-family: 'Raleway', sans-serif;
-   color: floralwhite;
+   color: #fff;
    letter-spacing: 3px;
    margin: 0 auto 40px;
 }
