@@ -666,9 +666,16 @@ ul#nav li a:hover {
 }
 .timeline-event-copy p:not(.timeline-event-thumbnail) {
   font-size: 14px;
-  font-weight: 300;
+  font-weight: 500;
   line-height: 24px;
-  padding-bottom: 20px;
+}
+
+.timeline-event-copy ul {
+  list-style-type: circle;
+}
+
+.timeline-event-copy ul li p {
+  margin-bottom: 0;
 }
 
 .timeline-event-icon {
@@ -1518,8 +1525,3 @@ footer .social-links li:first-child { margin-left: 0; }
 }
 
 #go-top a:hover { background-color: #0F9095; }
-
-
-
-
-
