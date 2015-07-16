@@ -1,7 +1,8 @@
 Create clouds using https://www.tagul.com
 
+software~engineer
 web~developer
-Square,~Inc.
+Braintree/PayPal
 Rails
 Caviar,~Inc.
 Ruby
@@ -34,7 +35,7 @@ Albany~High
 Parks~and~Rec
 HTML5/CSS3
 Breaking~Bad
-
+Square,~Inc.
 
 COLORS
 teal: #11abb0
