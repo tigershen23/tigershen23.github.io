@@ -210,12 +210,12 @@ function parallax() {
         el: '#map', lat: 37.840220, lng: -122.354881, zoom: 11, zoomControl : true,
         zoomControlOpt: { style : 'SMALL', position: 'TOP_LEFT' }, panControl : false, scrollwheel: false
       });
-    // AHS marker
-    map.addMarker({ lat: 37.895973, lng: -122.292455, title: 'Albany High School',
-      infoWindow: { content: '<p>603 Key Route Blvd, Albany, CA 94706</p>' } });
-    // Square office marker
-    map.addMarker({ lat: 37.775775, lng: -122.418130, title: 'Square Main Office',
-      infoWindow: { content: '<p>1455 Market Street, San Francisco, CA 94103</p> - 6th floor' } });
+    // Braintree office marker
+    map.addMarker({ lat: 37.779992, lng: -122.390807, title: 'Braintree Office',
+      infoWindow: { content: '<p>Braintree<br />123 Townsend St, San Francisco, CA 94107</p>' } });
+    // Philz Coffee marker
+    map.addMarker({ lat: 37.879329, lng: -122.297380, title: 'Philz Coffee',
+      infoWindow: { content: '<p>Philz Coffee<br />1313 9th St, Berkeley, CA 94710</p>' } });
 
 /*----------------------------------------------------*/
 /*	contact form
@@ -262,11 +262,3 @@ function parallax() {
 
 
 });
-
-
-
-
-
-
-
-
