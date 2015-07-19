@@ -320,7 +320,6 @@ ul#nav li {
 
 /* Links */
 ul#nav li a {
-
 /* 8px padding top + 8px padding bottom + 32px line-height = 48px */
 
    display: inline-block;
@@ -328,7 +327,7 @@ ul#nav li a {
    line-height: 32px;
 	 text-decoration: none;
    text-align: center;
-   color: black;
+   color: #fff;
    font-weight: 700;
 
 	-webkit-transition: all .2s ease-in-out;
