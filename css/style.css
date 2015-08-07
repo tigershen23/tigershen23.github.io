@@ -1130,66 +1130,6 @@ ul#nav li a:hover {
    opacity: 0;
 }
 
-
-/* ------------------------------------------------------------------ */
-/* 8. Contributions Section
-/* ------------------------------------------------------------------ */
-
-#short-section {
-   background: #212121;
-   padding-top: 66px;
-   padding-bottom: 48px;
-}
-#short-section h1 {
-   font: 18px/24px 'opensans-bold', sans-serif;
-   text-transform: uppercase;
-   letter-spacing: 3px;
-   color: #fff;
-   text-align: center;
-}
-#short-section h1 span {
-  display: block;
-}
-
-#short-section .action {
-   margin-top: 12px;
-}
-#short-section h2 {
-   font: 28px/36px 'Open Sans', sans-serif;
-   font-weight: 700;
-   color: #EBEEEE;
-   margin-bottom: 6px;
-   text-transform: uppercase;
-}
-#short-section h2 a {
-   color: inherit;
-}
-#short-section p {
-   color: #888;
-   font-size: 17px;
-}
-
-#short-section .button:hover,
-#short-section .button:active {
-   background: #FFFFFF;
-   color: #0D0D0D;
-}
-#short-section p span {
-	font-family: 'Open Sans', sans-serif;
-  font-weight: 700;
-	color: #D8D8D8;
-}
-#short-section a:hover {
-  color: #ed5565;
-}
-
-#short-section .year-of-commits-header {
-  color: #fff;
-}
-#short-section .year-of-commits-header small {
-  color: #fff;
-}
-
 /* ------------------------------------------------------------------ */
 /* 9. Quotes
 /* ------------------------------------------------------------------ */
